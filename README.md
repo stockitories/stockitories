@@ -1,5 +1,5 @@
 # Stockitories
-- //onurboz.com
+- [onurboz.com](https://onurboz.com)
 - //bozdev.com
 - //boz.works
 - //pealm.com
